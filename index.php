@@ -5,6 +5,12 @@
 	<title>Rivas Dent</title>
 </head>
 <body>
-	<h1>RIvas Dent</h1>
+	<h1>Rivas Dent</h1>
+
+<header id="header" class="header">
+	<h2>Descripcion del la empresa</h2>
+	<p>Rivas Dent es un proyecto realizado por el dentista Orlando Rivas inga...<br>
+	Con el fin de ejercer su vocación.  </p>
+</header><!-- /header -->
 </body>
 </html>
